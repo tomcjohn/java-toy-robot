@@ -1,0 +1,22 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'com.google.guava:guava:18.0'
+
+    testCompile 'junit:junit:4.12'
+}
+
+test {
+    testLogging {
+        showStandardStreams = true
+    }
+}
+
+task execute(type:JavaExec) {
+    main = 'com.reagroup.toyrobot.ToyRobot'
+    classpath = sourceSets.main.runtimeClasspath
+}
