@@ -1,0 +1,17 @@
+# gradle
+/*/build/
+/.gradle/
+/build/
+
+# IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Emacs/Vi backup files
+*~
+
+# Vi swap files
+.*.swp
+
