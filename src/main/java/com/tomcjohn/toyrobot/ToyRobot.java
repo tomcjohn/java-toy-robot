@@ -1,4 +1,4 @@
-package com.reagroup.toyrobot;
+package com.tomcjohn.toyrobot;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

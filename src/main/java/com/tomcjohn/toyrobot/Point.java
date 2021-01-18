@@ -1,4 +1,4 @@
-package com.reagroup.toyrobot;
+package com.tomcjohn.toyrobot;
 
 /**
  * A convenient representation of a point in space.

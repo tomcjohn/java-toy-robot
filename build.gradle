@@ -17,6 +17,6 @@ test {
 }
 
 task execute(type:JavaExec) {
-    main = 'com.reagroup.toyrobot.ToyRobot'
+    main = 'com.tomcjohn.toyrobot.ToyRobot'
     classpath = sourceSets.main.runtimeClasspath
 }

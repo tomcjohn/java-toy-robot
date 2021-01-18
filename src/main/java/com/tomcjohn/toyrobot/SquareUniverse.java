@@ -1,4 +1,4 @@
-package com.reagroup.toyrobot;
+package com.tomcjohn.toyrobot;
 
 /**
  * A square implementation of a {@link Universe}, meaning (obviously) that all

@@ -1,4 +1,4 @@
-package com.reagroup.toyrobot;
+package com.tomcjohn.toyrobot;
 
 /**
  * The definition of the space within which a {@link Robot} can validly move.
